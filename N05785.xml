@@ -111,8 +111,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:007345_0000_102B5BDD53ECE808"/>
-            <pb facs="tcp:007345_0001_102B5BDFD5F17268" rendition="simple:additions"/>
+            <pb facs="unknown:007345_0000_102B5BDD53ECE808"/>
+            <pb facs="unknown:007345_0001_102B5BDFD5F17268"
+                rendition="simple:additions"/>
             <p>AN ACCOUNT Of the DISTANCES From the CITY of PHILADELPHIA, Of all the Places of Note within the Improved Part of the Province of PENNSYLVANIA.</p>
             <p>
                <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -133,7 +134,7 @@
       </front>
       <body>
          <div type="table">
-            <pb facs="tcp:007345_0002_102B5BE221049F18"/>
+            <pb facs="unknown:007345_0002_102B5BE221049F18"/>
             <p>
                <table>
                   <head>Road from Philadelphia Court-House, to New-Castle Court-House.</head>
@@ -330,7 +331,7 @@
                </table>
             </p>
             <p>
-               <pb n="4" facs="tcp:007345_0003_102B5BE4D6F34E20"/>
+               <pb n="4" facs="unknown:007345_0003_102B5BE4D6F34E20"/>
                <table>
                   <head>Road from Philadelphia Court-House to Reading.</head>
                   <row>
@@ -576,7 +577,7 @@
                </table>
             </p>
             <p>
-               <pb n="5" facs="tcp:007345_0004_102B5BE65B39CD88"/>
+               <pb n="5" facs="unknown:007345_0004_102B5BE65B39CD88"/>
                <table>
                   <head>Road from Philadelphia to R<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -834,7 +835,7 @@
                </table>
             </p>
             <p>
-               <pb n="6" facs="tcp:007345_0005_102B5BE7E4DA8E18"/>
+               <pb n="6" facs="unknown:007345_0005_102B5BE7E4DA8E18"/>
                <table>
                   <head>Road from Philadelphia to Rays-Town.</head>
                   <row>
@@ -1019,7 +1020,7 @@
                </table>
             </p>
             <p>
-               <pb n="7" facs="tcp:007345_0006_102B5BE9DB2BDF20"/>
+               <pb n="7" facs="unknown:007345_0006_102B5BE9DB2BDF20"/>
                <table>
                   <head>Road from Philadelphia Court-House to Jost Henry Sas<g ref="char:EOLhyphen"/>manhousen's.</head>
                   <row>
@@ -1193,7 +1194,7 @@
                </table>
             </p>
             <p>
-               <pb n="8" facs="tcp:007345_0007_102B5BEDA03F5B18"/>
+               <pb n="8" facs="unknown:007345_0007_102B5BEDA03F5B18"/>
                <table>
                   <head>Road from Chester to the Temporary Line.</head>
                   <row>
@@ -1376,7 +1377,7 @@
                </table>
             </p>
             <p>
-               <pb n="9" facs="tcp:007345_0008_102B5BF11AED5750"/>
+               <pb n="9" facs="unknown:007345_0008_102B5BF11AED5750"/>
                <table>
                   <head>Road from Reading to Harris's Ferry.</head>
                   <row>
@@ -1544,7 +1545,7 @@
                </table>
             </p>
             <p>
-               <pb n="10" facs="tcp:007345_0009_102B5BF2ED09F010"/>
+               <pb n="10" facs="unknown:007345_0009_102B5BF2ED09F010"/>
                <table>
                   <head>Road from Reading to Lancaster.</head>
                   <row>
@@ -1680,7 +1681,7 @@
                </table>
             </p>
             <p>
-               <pb n="11" facs="tcp:007345_0010_102B5BF562ED2980"/>
+               <pb n="11" facs="unknown:007345_0010_102B5BF562ED2980"/>
                <table>
                   <head>Road from Ray's Town to a Branch of Yohiogeny.</head>
                   <row>
@@ -1855,7 +1856,7 @@
                </table>
             </p>
             <p>
-               <pb n="12" facs="tcp:007345_0011_102B5BF90740AC98"/>
+               <pb n="12" facs="unknown:007345_0011_102B5BF90740AC98"/>
                <table>
                   <head>Road from the Widow Lloyd's to the Widow Andrew's<g ref="char:punc">▪</g>
                   </head>
@@ -2047,7 +2048,7 @@
                </table>
             </p>
             <p>
-               <pb n="13" facs="tcp:007345_0012_102B5BFA8B3AF830"/>
+               <pb n="13" facs="unknown:007345_0012_102B5BFA8B3AF830"/>
                <table>
                   <head>Road from Bristol to Durham Furnace:</head>
                   <row>
@@ -2207,7 +2208,7 @@
                </table>
             </p>
             <p>
-               <pb n="14" facs="tcp:007345_0013_102B5BFCF2BC9238"/>
+               <pb n="14" facs="unknown:007345_0013_102B5BFCF2BC9238"/>
                <table>
                   <row>
                      <cell role="label"> </cell>
@@ -2311,7 +2312,7 @@
       </body>
       <back>
          <div type="index">
-            <pb n="15" facs="tcp:007345_0014_102B5BFF920ACE10"/>
+            <pb n="15" facs="unknown:007345_0014_102B5BFF920ACE10"/>
             <head>INDEX</head>
             <list>
                <label> </label>
